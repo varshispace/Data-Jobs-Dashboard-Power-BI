@@ -1,9 +1,9 @@
 
-# 📊 Data Jobs Dashboard with Power BI
+# Data Jobs Dashboard with Power BI
 
 An interactive Power BI dashboard to explore data science job postings, analyze salary trends, and understand job opportunities across different roles and locations.
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ## Page 1: High-Level Market View
 
@@ -17,7 +17,7 @@ This dashboard provides an overview of the job market using key metrics, salary 
 
 This page provides detailed insights into a selected job title, including salaries, work-from-home availability, degree requirements, health insurance, job platforms, schedule types, and global job locations.
 
-# 🎯 Project Objective
+#  Project Objective
 
 The objective of this project is to transform raw job-posting data into an interactive dashboard that helps job seekers, career switchers, and professionals explore job-market trends and compensation.
 
@@ -28,7 +28,7 @@ The objective of this project is to transform raw job-posting data into an inter
 - **DAX and Implicit Measures:** Calculations and summary metrics
 - **Data Visualization:** Charts, maps, cards, tables, and KPI indicators
 
-# ✨ Key Features
+#  Key Features
 
 - **Job Market Overview:** Explore total job postings and salary metrics.
 - **Salary Analysis:** Compare yearly and hourly salaries across job roles.
